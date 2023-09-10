@@ -1,3 +1,5 @@
 000OtherFiles/
 flask_session/
 env/
+venv/
+.env
